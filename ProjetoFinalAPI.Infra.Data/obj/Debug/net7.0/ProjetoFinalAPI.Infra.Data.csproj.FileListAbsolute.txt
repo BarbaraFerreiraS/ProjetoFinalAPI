@@ -1,0 +1,15 @@
+C:\Users\Bárbara Ferreira\source\repos\ProjetoFinalAPI\ProjetoFinalAPI.Infra.Data\obj\Debug\net7.0\ProjetoFinalAPI.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Bárbara Ferreira\source\repos\ProjetoFinalAPI\ProjetoFinalAPI.Infra.Data\obj\Debug\net7.0\ProjetoFinalAPI.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bárbara Ferreira\source\repos\ProjetoFinalAPI\ProjetoFinalAPI.Infra.Data\obj\Debug\net7.0\ProjetoFinalAPI.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Bárbara Ferreira\source\repos\ProjetoFinalAPI\ProjetoFinalAPI.Infra.Data\obj\Debug\net7.0\ProjetoFinalAPI.Infra.Data.AssemblyInfo.cs
+C:\Users\Bárbara Ferreira\source\repos\ProjetoFinalAPI\ProjetoFinalAPI.Infra.Data\obj\Debug\net7.0\ProjetoFinalAPI.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Bárbara Ferreira\source\repos\ProjetoFinalAPI\ProjetoFinalAPI.Infra.Data\bin\Debug\net7.0\ProjetoFinalAPI.Infra.Data.deps.json
+C:\Users\Bárbara Ferreira\source\repos\ProjetoFinalAPI\ProjetoFinalAPI.Infra.Data\bin\Debug\net7.0\ProjetoFinalAPI.Infra.Data.dll
+C:\Users\Bárbara Ferreira\source\repos\ProjetoFinalAPI\ProjetoFinalAPI.Infra.Data\bin\Debug\net7.0\ProjetoFinalAPI.Infra.Data.pdb
+C:\Users\Bárbara Ferreira\source\repos\ProjetoFinalAPI\ProjetoFinalAPI.Infra.Data\bin\Debug\net7.0\ProjetoFinalAPI.Service.dll
+C:\Users\Bárbara Ferreira\source\repos\ProjetoFinalAPI\ProjetoFinalAPI.Infra.Data\bin\Debug\net7.0\ProjetoFinalAPI.Service.pdb
+C:\Users\Bárbara Ferreira\source\repos\ProjetoFinalAPI\ProjetoFinalAPI.Infra.Data\obj\Debug\net7.0\ProjetoFinalAPI.Infra.Data.csproj.CopyComplete
+C:\Users\Bárbara Ferreira\source\repos\ProjetoFinalAPI\ProjetoFinalAPI.Infra.Data\obj\Debug\net7.0\ProjetoFinalAPI.Infra.Data.dll
+C:\Users\Bárbara Ferreira\source\repos\ProjetoFinalAPI\ProjetoFinalAPI.Infra.Data\obj\Debug\net7.0\refint\ProjetoFinalAPI.Infra.Data.dll
+C:\Users\Bárbara Ferreira\source\repos\ProjetoFinalAPI\ProjetoFinalAPI.Infra.Data\obj\Debug\net7.0\ProjetoFinalAPI.Infra.Data.pdb
+C:\Users\Bárbara Ferreira\source\repos\ProjetoFinalAPI\ProjetoFinalAPI.Infra.Data\obj\Debug\net7.0\ref\ProjetoFinalAPI.Infra.Data.dll
